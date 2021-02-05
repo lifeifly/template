@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lifeifly.template.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lifeifly.template.MyBundle
 
 class MyApplicationService {
 
